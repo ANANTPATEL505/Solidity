@@ -21,5 +21,5 @@ Each file in this repo is a verified contract on the blockchain.
 
 ## 🛠️ Tools
 - Remix IDE + Metamask (Sepolia testnet)  
-- Solidity Compiler `0.8.x`  
+- Solidity Compiler (mentioned in each file) 
 - Etherscan for verification  
