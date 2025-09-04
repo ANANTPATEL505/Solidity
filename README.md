@@ -6,10 +6,14 @@ Each file in this repo is a verified contract on the blockchain.
 ---
 
 ## 🔍 How to View Contracts
-1. Visit **[Sepolia Etherscan](https://sepolia.etherscan.io/)**  
-2. Copy any contract address from the commits in this repo.  
-3. Paste it in the Etherscan search bar to navigate to the verified contract.  
-4. The full source code is also available in this repository (`.sol` files).
+1. Visit [Sepolia Etherscan](https://sepolia.etherscan.io/)  
+2. Copy the **contract address** mentioned in each `.sol` file of this repository.  
+3. Paste the address into the Etherscan search bar.  
+4. Navigate to the **Contract** tab.  
+5. You can:  
+   - Open the **Read Contract** section to interact with contract functions.  
+   - View the **Write Contract** section (requires wallet connection).  
+6. The full source code is also stored in this repository (`.sol` files).
 
 ---
 
